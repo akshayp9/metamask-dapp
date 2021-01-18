@@ -1,2 +1,2 @@
-# metamask-dapp
+# Metamask-dApp
 Metamask integration Decentralized Application
